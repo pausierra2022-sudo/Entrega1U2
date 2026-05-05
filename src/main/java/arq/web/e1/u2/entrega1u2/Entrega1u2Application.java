@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class Entrega1u2Application {
 
 	public static void main(String[] args) {
-		SpringApplication.run(Entrega1u2Application.class, args);
+		SpringApplication.run(Entrega1u2Application.class, args); 
 	}
 
 }
